@@ -30,8 +30,7 @@ Construir un sistema web intuitivo y dinámico que integre catálogo de producto
 🛒 Permite explorar un amplio catálogo de abarrotes y productos cotidianos organizados por categorías, facilitando la gestión del carrito y la lista de favoritos en tiempo real.
 
 📩 Optimiza el proceso de compra mediante una interfaz intuitiva con flujo directo al pago, generando confirmaciones inmediatas y enviando el desglose detallado del pedido por correo electrónico.
-
-<br>
+<br><br>
 
 ## 🧩 Funcionalidades
 
@@ -45,11 +44,9 @@ Construir un sistema web intuitivo y dinámico que integre catálogo de producto
 * 📦 **Gestión de productos (CRUD):** Alta, baja, edición y actualización del catálogo y stock disponible.
 * 📂 **Administración de categorías:** Creación y organización de las secciones de productos de la tienda.
 * 📊 **Control de pedidos:** Visualización y seguimiento de las compras realizadas por los clientes.
-<br>
+<br><br>
 
 ## 🛠️ Tecnologías utilizadas
-
-
 
 ![laravel](https://img.shields.io/badge/laravel-DD0031?style=for-the-badge&logo=laravel&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-f06529?style=for-the-badge&logo=HTML5&logoColor=white)
@@ -62,9 +59,7 @@ Construir un sistema web intuitivo y dinámico que integre catálogo de producto
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
-<br>
+<br><br>
 
 ## 🖼️ Preview
 >Una mirada rápida al funcionamiento de la pagina:
@@ -93,8 +88,7 @@ Todos los derechos de esta página web, incluyendo su diseño, logo, funciones y
 
 Este proyecto fue realizado con fines académicos como <strong>proyecto final</strong> para la materia de <strong>Programación para Internet</strong>.
 Queda prohibida su distribución o uso con fines comerciales sin la previa revisión y autorización de los autores.
-<br>
-<br>
+<br><br>
 
 
 ## 🎓 Proyecto académico
@@ -106,5 +100,4 @@ Queda prohibida su distribución o uso con fines comerciales sin la previa revis
   <em><strong style="font-size: 20px;">🚀 ¡Aún no terminamos! 🚀</strong></em><br>
   <em>Seguiremos desarrollando y sumando nuevas funciones para que tengas la mejor experiencia posible en la plataforma.</em><br>
 </p>
-
 
