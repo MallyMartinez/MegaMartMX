@@ -64,13 +64,13 @@
 >Una mirada rápida al funcionamiento de la pagina:
 
 <p align="left">
-  <img src="img readme/detalle_producto.png" alt="detalle_producto" height="400"/>
-  <img src="img readme/detalle_producto_con boton_mensaje_carrito.png" alt="detalle_producto_con boton_mensaje_carrito" height="400"/>
-  <img src="img readme/Index_con_Boton_mensaje_favoritos.png" alt="Index_con_Boton_mensaje_favoritos" height="400"/>
-  <img src="img readme/carrito_de_compras.png" alt="carrito_de_compras" height="400"/>
-  <img src="img readme/Confirmar_compra.png" alt="Confirmar_compra" height="400"/>
-  <img src="img readme/lista_productos.png" alt="Inforlista_productosmación" height="400"/>
-    <img src="img readme/correo_detalles_compra..png" alt="correo_detalles_compra" height="400"/>
+  <img src="img readme/detalle_producto.png" alt="detalle_producto" width="400"/>
+  <img src="img readme/detalle_producto_con boton_mensaje_carrito.png" alt="detalle_producto_con boton_mensaje_carrito" width="400"/>
+  <img src="img readme/Index_con_Boton_mensaje_favoritos.png" alt="Index_con_Boton_mensaje_favoritos" width="400"/>
+  <img src="img readme/carrito_de_compras.png" alt="carrito_de_compras" width="400"/>
+  <img src="img readme/Confirmar_compra.png" alt="Confirmar_compra" width="400"/>
+  <img src="img readme/lista_productos.png" alt="Inforlista_productosmación" width="400""/>
+    <img src="img readme/correo_detalles_compra..png" alt="correo_detalles_compra" width="400"/>
 </p>
 
 <br>
