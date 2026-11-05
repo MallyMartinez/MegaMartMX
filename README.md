@@ -70,9 +70,8 @@
   <img src="img readme/detalle_producto_con boton_mensaje_carrito.png" alt="detalle_producto_con boton_mensaje_carrito" width="400"/>
   <img src="img readme/Confirmar_compra.png" alt="Confirmar_compra" width="400"/>
   <img src="img readme/lista_productos.png" alt="Inforlista_productosmación" width="400""/>
-  <img src="img readme/detalles_compra_pagina.png" alt="detalles_compra_pagina" width="400"/>
   <img src="img readme/correo_detalles_compra..png" alt="correo_detalles_compra" width="400"/>
-
+  <img src="img readme/detalles_compra_pagina.png" alt="detalles_compra_pagina" width="400"/>
 
 </p>
 
