@@ -26,8 +26,11 @@ Construir un sistema web intuitivo y dinámico que integre catálogo de producto
 
 <br><br>
 
-## 📱 ¿Qué hace nuestra App?
+## 💻 ¿Qué hace nuestra página web?
 
+🛒 Permite explorar un amplio catálogo de abarrotes y productos cotidianos organizados por categorías, facilitando la gestión del carrito y la lista de favoritos en tiempo real.
+
+📩 Optimiza el proceso de compra mediante una interfaz intuitiva con flujo directo al pago, generando confirmaciones inmediatas y enviando el desglose detallado del pedido por correo electrónico.
 
 <br>
 
