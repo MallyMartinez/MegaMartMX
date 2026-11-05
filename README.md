@@ -2,7 +2,7 @@
   <img src="img readme/MegaMartMX.png" alt="Logo" width="350"/>
 </p>
 
-> MegaMartMX es una pagina Web. 
+> MegaMartMX es una plataforma web e-commerce de una tienda de abarrotes y conveniencia, diseñada para facilitar la selección y compra rápida de nuestros productos.
 
 ## 👥 ¿Quiénes somos?
 <table>
