@@ -2,7 +2,7 @@
   <img src="img readme/MegaMartMX.png" alt="Logo" width="350"/>
 </p>
 
-> MegaMartMX es una plataforma web e-commerce de una tienda de abarrotes y conveniencia, diseñada para facilitar la selección y compra rápida de nuestros productos.
+> MegaMartMX es una plataforma web e-commerce de una tienda de abarrotes y conveniencia, diseñada para facilitar la selección y compra rápida de productos del hogar.
 
 ## 👥 ¿Quiénes somos?
 <table>
@@ -19,13 +19,14 @@
 ## 🎯 Propósito y objetivo
 
 **💡 Nuestro propósito:**  
-
+Proporcionar una plataforma e-commerce eficiente y accesible para el comercio de abarrotes y productos de primera necesidad, optimizando la experiencia de compra de despensa en línea.
 
 **🚀 Nuestro objetivo:**  
+Construir un sistema web intuitivo y dinámico que integre catálogo de productos, carrito de compras, gestión de favoritos y confirmación de pedidos con notificaciones por correo electrónico.
 
 <br><br>
 
-## 📱 ¿Qué hace nuestra app?
+## 📱 ¿Qué hace nuestra App?
 
 
 <br>
