@@ -23,8 +23,7 @@ Proporcionar una plataforma e-commerce eficiente y accesible para el comercio de
 
 **🚀 Nuestro objetivo:**  
 Construir un sistema web intuitivo y dinámico que integre catálogo de productos, carrito de compras, gestión de favoritos y confirmación de pedidos con notificaciones por correo electrónico.
-
-<br><br>
+<br>
 
 ## 💻 ¿Qué hace nuestra página web?
 
@@ -36,13 +35,16 @@ Construir un sistema web intuitivo y dinámico que integre catálogo de producto
 
 ## 🧩 Funcionalidades
 
--  
-- 
-- 
-- 
-- 
-- 
+### 👤 Módulo de Comprador
+* 🛒 **Catálogo interactivo:** Navegación por categorías y visualización de abarrotes con detalles de producto.
+* 🛍️ **Carrito de compras:** Agregar, eliminar y actualizar cantidades de artículos en tiempo real.
+* ❤️ **Lista de favoritos:** Guardar productos preferidos para un acceso rápido en compras posteriores.
+* 💳 **Proceso de pago y correo:** Confirmación de pedido con envío automático del desglose de la compra por email.
 
+### 🛡️ Módulo de Administrador
+* 📦 **Gestión de productos (CRUD):** Alta, baja, edición y actualización del catálogo y stock disponible.
+* 📂 **Administración de categorías:** Creación y organización de las secciones de productos de la tienda.
+* 📊 **Control de pedidos:** Visualización y seguimiento de las compras realizadas por los clientes.
 <br>
 
 ## 🛠️ Tecnologías utilizadas
