@@ -7,7 +7,7 @@
 ## 👥 ¿Quiénes somos?
 <table>
 <tr>
-  <td width="220">
+  <td width="220" align="center" valign="middle">
     <img src="img readme/dev_M&C.png" alt="MID Tech" height="100">
   </td>
   <td>
@@ -23,7 +23,7 @@ Proporcionar una plataforma e-commerce eficiente y accesible para el comercio de
 
 **🚀 Nuestro objetivo:**  
 Construir un sistema web intuitivo y dinámico que integre catálogo de productos, carrito de compras, gestión de favoritos y confirmación de pedidos con notificaciones por correo electrónico.
-<br>
+<br><br>
 
 ## 💻 ¿Qué hace nuestra página web?
 
